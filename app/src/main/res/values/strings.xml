@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Delivery</string>
+    <string name="request">درخواست موتور</string>
+    <string name="searching_for_motor">در حال یافتن موتور...</string>
+    <string name="cancel">لغو درخواست</string>
+    <string name="submit_source">تایید مبدا</string>
+    <string name="submit_destination">تایید مقصد</string>
+    <string name="connection_error">خطا در ارتباط</string>
+    <string name="search_hint">جستجو...</string>
+</resources>
